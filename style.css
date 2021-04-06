@@ -4,12 +4,12 @@ body {
 
 h1 {
   color: orange;
-  font-family: Lucida Console;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   text-align: center;
 }
 
 p {
-  font-family: Lucida Console;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 20px;
 }
