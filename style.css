@@ -3,13 +3,23 @@ body {
 }
 
 h1 {
-  color: orange;
-  font-family: "Times New Roman", Times, serif;
+  color: white;
+  font-family: "Courier New";
   font-weight: bold;
   text-align: center;
 }
 
 p {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Console";
   font-size: 20px;
+}
+
+a:link, a:visited {
+  color: orange;
+  font-family: "Lucida Console";
+  font-size: 20px;
+}
+
+a:hover {
+  color:white;
 }
