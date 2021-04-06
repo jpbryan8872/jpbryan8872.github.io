@@ -3,11 +3,12 @@ body {
 }
 
 h1 {
-  color: white;
+  font-family: "Lucida Console", bold;
+  color: orange;
   text-align: center;
 }
 
 p {
-  font-family: roboto;
+  font-family: "Lucida Console";
   font-size: 20px;
 }
