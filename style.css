@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
-  font-family: "Lucida Console", bold;
   color: orange;
+  font-family: "Lucida Console";
+  font-weight: bold;
   text-align: center;
 }
 
